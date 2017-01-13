@@ -1,0 +1,5 @@
+C:\ShaienTechProjects\SNTQueueDataHelper\SNTQueueDataHelper\bin\Debug\SNTQueueDataHelper.dll
+C:\ShaienTechProjects\SNTQueueDataHelper\SNTQueueDataHelper\bin\Debug\SNTQueueDataHelper.pdb
+C:\ShaienTechProjects\SNTQueueDataHelper\SNTQueueDataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\ShaienTechProjects\SNTQueueDataHelper\SNTQueueDataHelper\obj\Debug\SNTQueueDataHelper.dll
+C:\ShaienTechProjects\SNTQueueDataHelper\SNTQueueDataHelper\obj\Debug\SNTQueueDataHelper.pdb
